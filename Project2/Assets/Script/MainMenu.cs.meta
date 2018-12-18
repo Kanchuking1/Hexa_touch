@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: a8d24444cac1b4ddcaca65b693518dc0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audmix: {fileID: 24100000, guid: 522533c752d3e4e9c8c86cde0f5a2999, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
